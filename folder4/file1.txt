@@ -1,3 +1,4 @@
 Nuevo
 Añado esta linea en rama1
 añado esto desde remoto
+2
